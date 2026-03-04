@@ -1,0 +1,1 @@
+Rank the items based on relevance to the query. Provide a score (0-1) and brief reason per item. Respond in JSON with "rankedItems" array. Maintain full original objects in "item" field.
