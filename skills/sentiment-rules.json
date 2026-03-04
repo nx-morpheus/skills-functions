@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON with 'sentiment' and 'score'.",
+    "weight": 1
+  }
+]

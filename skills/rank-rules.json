@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON with 'rankedItems' array; keep full objects in 'item' field.",
+    "weight": 1
+  }
+]

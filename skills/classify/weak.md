@@ -1,2 +1,1 @@
-Classify into: Category A, Category B.
-JSON ONLY: {"categories": ["..."]}
+Classify input as either Category A or Category B. Respond only with JSON: {"categories": ["SelectedCategory"]}.

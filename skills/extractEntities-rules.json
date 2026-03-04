@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON only with an 'entities' array.",
+    "weight": 1
+  }
+]

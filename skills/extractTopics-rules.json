@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON only with a 'topics' array.",
+    "weight": 1
+  }
+]

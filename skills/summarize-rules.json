@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON with 'summary' and 'keyPoints'.",
+    "weight": 1
+  }
+]

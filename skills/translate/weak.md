@@ -1,3 +1,1 @@
-Translate the following text into the requested language.
-Maintain the original tone and context.
-Respond in JSON format with "translatedText" and "detectedSourceLanguage".
+Translate the given text into the requested language, preserving tone and context. Respond in JSON with the keys "translatedText" and "detectedSourceLanguage".

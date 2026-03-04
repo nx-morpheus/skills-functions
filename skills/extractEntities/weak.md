@@ -1,3 +1,1 @@
-Extract entities: Person, Organization, Location, Date, Product.
-JSON ONLY: {"entities": [{"name": "...", "type": "..."}]}
-No chat.
+Skill: extractEntities. Mode: weak. Extract entities of types Person, Organization, Location, Date, Product from the input text. Output JSON only: {"entities": [{"name": "...", "type": "..."}]} No chat.

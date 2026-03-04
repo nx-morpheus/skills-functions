@@ -1,1 +1,1 @@
-Group the items into semantic clusters. Provide a descriptive label for each cluster. Respond in JSON with "clusters" array. Maintain full original objects in "items" array.
+Group items into semantic clusters and assign a descriptive label to each cluster. Respond with JSON containing a 'clusters' array (each entry includes a 'label') and an 'items' array with the full original objects unchanged.

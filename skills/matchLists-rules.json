@@ -1,0 +1,10 @@
+[
+  {
+    "rule": "Output valid JSON only with 'matches' and 'unmatched' arrays.",
+    "weight": 1
+  },
+  {
+    "rule": "Use exact objects from list1/list2 in source/target; do not invent fields.",
+    "weight": 1
+  }
+]

@@ -1,2 +1,1 @@
-Summarize text (a concise paragraph).
-JSON ONLY: {"summary": "...", "keyPoints": []}
+Summarize the input text into a single concise paragraph. Return a JSON object with exactly two fields: 'summary' (the paragraph) and 'keyPoints' (an array of the main points). Do not include any other content or fields.

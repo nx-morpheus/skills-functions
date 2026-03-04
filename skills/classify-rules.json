@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON with 'categories' (and optional 'confidence').",
+    "weight": 1
+  }
+]

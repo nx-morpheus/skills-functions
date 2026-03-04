@@ -1,0 +1,6 @@
+[
+  {
+    "rule": "Output valid JSON with 'translatedText' and 'detectedSourceLanguage'.",
+    "weight": 1
+  }
+]
